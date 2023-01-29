@@ -1,5 +1,5 @@
 # Total TypeScript
-----------------
+--------------
 
 ## Courses
 
