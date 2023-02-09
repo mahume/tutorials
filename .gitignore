@@ -1,5 +1,11 @@
+# Mac
 .DS_Store
 
+# JetBrains
 .idea
 
+# Node
 node_modules
+
+# Rust
+target
