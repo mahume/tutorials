@@ -1,6 +1,6 @@
 - [X] 1 - Hello World
   - [ ] 1.1 - Comments
-  - [ ] 1.2 - Formatted print
+  - [X] 1.2 - Formatted print
     - [ ] 1.2.1 - Debug
     - [ ] 1.2.2 - Display
       - [ ] 1.2.2.1 - Testcase: List
