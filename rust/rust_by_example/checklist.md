@@ -1,10 +1,10 @@
 - [X] 1 - Hello World
   - [ ] 1.1 - Comments
   - [X] 1.2 - Formatted print
-    - [ ] 1.2.1 - Debug
-    - [ ] 1.2.2 - Display
-      - [ ] 1.2.2.1 - Testcase: List
-    - [ ] 1.2.3 - Formatting
+    - [X] 1.2.1 - Debug
+    - [X] 1.2.2 - Display
+      - [X] 1.2.2.1 - Testcase: List
+    - [X] 1.2.3 - Formatting
 - [ ] 2 - Primitives
   - [ ] 2.1 - Literals and operators
   - [ ] 2.2 - Tuples
