@@ -16,11 +16,11 @@
     - [ ] 3.2.2 - C-like
     - [ ] 3.2.3 - Testcase: linked-list
   - [ ] 3.3 - constants
-- [ ] 4 - Variable Bindings
-  - [ ] 4.1 - Mutability
-  - [ ] 4.2 - Scope and Shadowing
-  - [ ] 4.3 - Declare first
-  - [ ] 4.4 - Freezing
+- [X] 4 - Variable Bindings
+  - [X] 4.1 - Mutability
+  - [X] 4.2 - Scope and Shadowing
+  - [X] 4.3 - Declare first
+  - [X] 4.4 - Freezing
 - [ ] 5 - Types
   - [ ] 5.1 - Casting
   - [ ] 5.2 - Literals
