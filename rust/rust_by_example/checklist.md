@@ -1,3 +1,5 @@
+[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+
 - [X] 1 - Hello World
   - [ ] 1.1 - Comments
   - [X] 1.2 - Formatted print
@@ -5,10 +7,10 @@
     - [X] 1.2.2 - Display
       - [X] 1.2.2.1 - Testcase: List
     - [X] 1.2.3 - Formatting
-- [ ] 2 - Primitives
-  - [ ] 2.1 - Literals and operators
-  - [ ] 2.2 - Tuples
-  - [ ] 2.3 - Arrays and Slices
+- [X] 2 - Primitives
+  - [X] 2.1 - Literals and operators
+  - [X] 2.2 - Tuples
+  - [X] 2.3 - Arrays and Slices
 - [ ] 3 - Custom Types
   - [ ] 3.1 - Structures
   - [ ] 3.2 - Enums
@@ -50,7 +52,7 @@
   - [ ] 8.6 - if let
   - [ ] 8.7 - let-else
   - [ ] 8.8 - while let
-- [ ] 9 - Functions
+- [X] 9 - Functions
   - [ ] 9.1 - Methods
   - [ ] 9.2 - Closures
     - [ ] 9.2.1 - Capturing
