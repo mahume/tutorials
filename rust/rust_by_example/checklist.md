@@ -1,7 +1,7 @@
 [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 
 - [X] 1 - Hello World
-  - [ ] 1.1 - Comments
+  - [X] 1.1 - Comments
   - [X] 1.2 - Formatted print
     - [X] 1.2.1 - Debug
     - [X] 1.2.2 - Display
@@ -32,9 +32,9 @@
   - [ ] 6.1 - From and Into
   - [ ] 6.2 - TryFrom and TryInto
   - [ ] 6.3 - To and from Strings
-- [ ] 7 - Expressions
-- [ ] 8 - Flow of Control
-  - [ ] 8.1 - if/else
+- [X] 7 - Expressions
+- [X] 8 - Flow of Control
+  - [X] 8.1 - if/else
   - [ ] 8.2 - loop
     - [ ] 8.2.1 - Nesting and labels
     - [ ] 8.2.2 - Returning from loops
