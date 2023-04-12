@@ -35,11 +35,11 @@
 - [X] 7 - Expressions
 - [X] 8 - Flow of Control
   - [X] 8.1 - if/else
-  - [ ] 8.2 - loop
-    - [ ] 8.2.1 - Nesting and labels
-    - [ ] 8.2.2 - Returning from loops
-  - [ ] 8.3 - while
-  - [ ] 8.4 - for and range
+  - [X] 8.2 - loop
+    - [X] 8.2.1 - Nesting and labels
+    - [X] 8.2.2 - Returning from loops
+  - [X] 8.3 - while
+  - [X] 8.4 - for and range
   - [ ] 8.5 - match
     - [ ] 8.5.1 - Destructuring
       - [ ] 8.5.1.1 - tuples
