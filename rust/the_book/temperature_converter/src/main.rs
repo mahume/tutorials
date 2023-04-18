@@ -48,4 +48,12 @@ fn main() {
     io::stdin().read_line(&mut buffer).expect("Huh?!");
 
     println!("You input: {}", buffer.trim());
+
+    test_function(String::from("Hello"));
+}
+
+fn test_function(parameter: String) -> i32 {
+    println!("{}", parameter);
+
+    0
 }
